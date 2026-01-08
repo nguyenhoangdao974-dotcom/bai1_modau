@@ -1,0 +1,14 @@
+ -------------------------------------
+https://github.com/nguyenhoangdao974-dotcom/bai1_modau.git
+---------------------------------------- 
+echo "# bai1_modau" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nguyenhoangdao974-dotcom/bai1_modau.git
+git push -u origin main
+----------------------------------------
+git remote add origin https://github.com/nguyenhoangdao974-dotcom/bai1_modau.git
+git branch -M main
+git push -u origin main
